@@ -1,4 +1,4 @@
-<img width=“600” height="600" alt="Screenshot 2022-10-25 at 09 06 31" src=https://www.shutterstock.com/shutterstock/photos/1483138139/display_1500/stock-photo-dangerous-malaria-infected-mosquito-skin-bite-leishmaniasis-encephalitis-yellow-fever-dengue-1483138139.jpg>
+<img width=“800” height="600" alt="Screenshot 2022-10-25 at 09 06 31" src=https://www.shutterstock.com/shutterstock/photos/1483138139/display_1500/stock-photo-dangerous-malaria-infected-mosquito-skin-bite-leishmaniasis-encephalitis-yellow-fever-dengue-1483138139.jpg>
 
 
 # Malaria Classification using Convolutional Neural Networks (CNN)
