@@ -6,15 +6,18 @@ The classification of malaria cases using thin blood smears is a critical aspect
 1. Baseline Selection:
 
 After considering various pre-trained models, VGG16 with batch normalization (vgg_bn) was identified as the most suitable baseline model for our project.
+
 2. Training Process:
 
 The training process utilized vgg_bn as the baseline, achieving an initial accuracy of 97.187%.
 Base Learning Rate:
 
 Experimentation with different base learning rates was conducted to optimize model performance. The optimal learning rate, determined by plotting the loss against various learning rates, was identified. The achieved accuracy was not as high as the baseline.
+
 3. Unfreezing the Model:
 
 Unfreezing the model proved to be a highly effective strategy, resulting in a significant accuracy boost to 97.282%.
+
 4. Discriminative Learning Rates:
 
 Implementation of discriminative learning rates, where different learning rates are applied to different parts of the model, was considered. This approach demonstrated slightly lower accuracy compared to model unfreezing.
